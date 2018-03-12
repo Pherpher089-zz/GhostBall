@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 9636717, guid: ac5f4bfb0f5a3894a80a58e0d2c29aa9, type: 3}
+  m_Name: Hierarchy (MAYA)
+  m_EditorClassIdentifier: 
+  last_scenes:
+  - 7d4baa2835f708447882ef6c2c609c2e
+  - 53319d342ad13aa47b40c3f9eef2495d
+  - d938bbd5c05a69140a4cb32ab62835b9
+  - 52831a734f67753409d81ac69465581e
+  - d1653b4ff1171f44d832497f2d11b0fc
+  - 72ff66e7f5fab40429daf7105be64daf
+  - 18b0c8891d0be084e8d0cd04a3d37e53
+  - c1cd5306cc867824392b4c026766b6ae
+  - 6bf66f65e5f60ad45b0410c5791a492f
+  - 553b7750f6f4daa4698d8b2732576cab
+  - e1d47988e5b507d499a004fbb8140aea
+  - 6dd2f0b0d15d60641b165563bf307c6a
+  - 5822983bf28a83e4b85598c2fbf16726
+  - d317c28d353db3044bf3d2dff3365740
+  - ed54c3d3ac3d84249b6e2f1a2df8a1ca
+  - 147fc24e778d1ab498744b0c13aeff42
+  - 627b2f7ebdb6d524ab5508876961f25b
+  - 627b2f7ebdb6d524ab5508876961f25b
+  m_hiddenComponents: []
+  modulesParamsType:
+  - EModules.EModulesInternal.Hierarchy+M_Vertices
+  - EModules.EModulesInternal.Hierarchy+M_SetActive
+  - EModules.EModulesInternal.Hierarchy+M_Colors
+  - EModules.EModulesInternal.Hierarchy+M_Warning
+  - EModules.EModulesInternal.Hierarchy+M_Freeze
+  - EModules.EModulesInternal.Hierarchy+M_PrefabApply
+  - EModules.EModulesInternal.Hierarchy+M_Audio
+  - EModules.EModulesInternal.Hierarchy+M_Tag
+  - EModules.EModulesInternal.Hierarchy+M_Layers
+  - EModules.EModulesInternal.Hierarchy+M_CustomIcons
+  - EModules.EModulesInternal.Hierarchy+M_Descript
+  modulesParamsClass:
+  - sib: 2
+    enable: 0
+    width: 81
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: 0
+    enable: 1
+    width: 16
+  - sib: 1
+    enable: 1
+    width: 31
+  - sib: 3
+    enable: 0
+    width: 16
+  - sib: 4
+    enable: 0
+    width: 48
+  - sib: 5
+    enable: 1
+    width: 56
+  - sib: 6
+    enable: 1
+    width: 48
+  - sib: 7
+    enable: 0
+    width: 16
+  lastIconSelect: []
+  listKey: []
+  listValue: []

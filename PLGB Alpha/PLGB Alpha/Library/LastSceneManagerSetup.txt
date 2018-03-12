@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/__Scenes/Current Game Scenes/Alpha_Goal.unity
+  isLoaded: 1
+  isActive: 1

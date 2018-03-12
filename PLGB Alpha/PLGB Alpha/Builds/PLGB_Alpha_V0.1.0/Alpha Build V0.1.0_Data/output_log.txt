@@ -1,0 +1,104 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 470 (ID=0x6cd)
+    Vendor:   NVIDIA
+    VRAM:     1233 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\KdTreeLib.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\KdTreeLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Poly2Tri.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll (this message is harmless)
+Loading C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll into Unity Child Domain
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Bret\Documents\plgb-repo\PLGB Alpha\Builds\PLGB_Alpha_V0.1.0\Alpha Build V0.1.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.031 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.351642 ms
+Unable to add underline since the Font Asset doesn't contain the underline character.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b38 -> priority: 1 
+  Thread -> id: 28fc -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.417977 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 658.
+Total: 1.670718 ms (FindLiveObjects: 0.037520 ms CreateObjectMapping: 0.021611 ms MarkObjects: 1.069788 ms  DeleteObjects: 0.540897 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.681974 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 7608.
+Total: 2.696982 ms (FindLiveObjects: 0.349992 ms CreateObjectMapping: 0.117664 ms MarkObjects: 1.363349 ms  DeleteObjects: 0.864475 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Physics:IgnoreCollision (UnityEngine.Collider,UnityEngine.Collider,bool)
+  at Item+<ReturnCollision>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.602579 ms
+
+Unloading 4916 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 42.586809 ms (FindLiveObjects: 0.318174 ms CreateObjectMapping: 0.363499 ms MarkObjects: 1.281104 ms  DeleteObjects: 40.623430 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.634848 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 644.
+Total: 1.240281 ms (FindLiveObjects: 0.038421 ms CreateObjectMapping: 0.021311 ms MarkObjects: 0.528290 ms  DeleteObjects: 0.651658 ms)
+
+Unable to add underline since the Font Asset doesn't contain the underline character.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
